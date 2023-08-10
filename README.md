@@ -11,7 +11,6 @@ Datum laatste update: 07/04/2023
 Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie actueel is op het moment dat je het leest. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
 
 ![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/7feed51c-e92d-41c3-a02e-47b0f293aa43)
-
 ## Welkom!
 
 Wat mag je van deze wegwijs verwachten?
@@ -33,7 +32,6 @@ Wat komt niet aan bod?
 - Een gedetailleerde omschrijving van de handelingen voor het gebruik van de toepassingen.
 
 ![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/df19441b-9524-4509-88fc-e73d24a42e54)
-
 ## Erkend... wat nu?
 
 Is jouw gemeente net erkend als onroerenderfgoedgemeente (OEG), of ben je net gestart als nieuw personeelslid belast met de taken van een OEG? Proficiat! We heten je alvast van harte welkom. Jij bent nu één van onze prioritaire en bevoorrechte partners in de zorg, het beleid en het beheer van het Vlaams onroerend erfgoed.
@@ -48,7 +46,6 @@ Je vertaalt je visie naar strategische en operationele doelstellingen in een onr
 ***Je kan als OEG een subsidie krijgen van Vlaanderen ter ondersteuning van de uitrol van jouw beleidsvisie. Hiervoor bezorg je het agentschap jouw onroerenderfgoedbeleidsplan en rapporteer je jaarlijks over de uitvoer ervan. Klik [hier](https://www.onroerenderfgoed.be/een-subsidie-aanvragen-oegemeente) voor meer informatie over deze subsidie en de voorwaarden.***
 
 ![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/96b97596-e9cf-4d7a-bbfc-2baa96e6c1b9)
-
 ## Onder de loep?
 
 Als OEG beschik je over een grotere autonomie om een lokaal onroerenderfgoedbeleid te voeren dan een stad of gemeente die geen erkenning als OEG heeft. Je voert op tal van domeinen samen met het agentschap Onroerend Erfgoed bevoegdheden en taken uit. Sommige moet je opnemen. Andere zijn vrijblijvend. We overlopen ze kort hieronder. Je kan ze nalezen in het Onroerenderfgoeddecreet van 12 juli 2013 en het Onroerenderfgoedbesluit van 16 mei 2014. Wat houden die taken en bevoegdheden nu concreet in? We nemen ze even onder de loep.
