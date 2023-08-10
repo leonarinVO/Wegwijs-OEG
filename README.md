@@ -12,10 +12,6 @@ Datum laatste update: 07/04/2023
 
 Ons beleidsveld staat niet stil, onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie uit deze handleiding actueel is op het moment dat je het leest. Kijk voor de meest actuele versie van deze handleiding op de gedeelde OneDrivemap. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
 
-### Inhoud
-
-
-
 ### Welkom!
 
 Wat mag je van deze wegwijs verwachten?
