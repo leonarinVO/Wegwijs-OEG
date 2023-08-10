@@ -10,8 +10,7 @@ Auteur: agentschap Onroerend Erfgoed / team Erkennen
 Datum laatste update: 07/04/2023
 Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie actueel is op het moment dat je het leest. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
 
-![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/7feed51c-e92d-41c3-a02e-47b0f293aa43)
-## Welkom!
+![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/7feed51c-e92d-41c3-a02e-47b0f293aa43) ## Welkom!
 
 Wat mag je van deze wegwijs verwachten?
 
