@@ -47,5 +47,5 @@ Als (kersverse) OEG beschik je over een **beleidsvisie**  over jouw lokaal onroe
 * * * * *
 #### ONROERENDERFGOEDBELEIDSPLAN
 Je vertaalt je visie naar strategische en operationele doelstellingen in een onroerenderfgoedbeleidsplan. Die vertaalslag helpt jou om de grote beleidslijnen concreter en vooral meer behapbaar te maken. Bovendien kan je die doelstellingen afbakenen in de tijd. Jaarlijks bekijk je hoe je hieraan invulling geeft via concrete acties. Je kan als OEG een subsidie krijgen van Vlaanderen ter ondersteuning van de uitrol van jouw beleidsvisie. Hiervoor bezorg je het agentschap jouw onroerenderfgoedbeleidsplan en rapporteer je jaarlijks over de uitvoer ervan. Klik hier voor meer informatie over deze subsidie en de voorwaarden.
-
+* * * * *
 
