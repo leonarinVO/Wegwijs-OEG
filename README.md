@@ -2,7 +2,7 @@
 
 # OEG-WEGWIJS
 
-## Een informatieplatform voor erkende onroerenderfgoedgemeenten
+# Een informatieplatform voor erkende onroerenderfgoedgemeenten
 
 
 
@@ -12,7 +12,7 @@ Datum laatste update: 07/04/2023
 
 Ons beleidsveld staat niet stil, onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie uit deze handleiding actueel is op het moment dat je het leest. Kijk voor de meest actuele versie van deze handleiding op de gedeelde OneDrivemap. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
 
-### Welkom!
+## Welkom!
 
 Wat mag je van deze wegwijs verwachten?
 
@@ -32,7 +32,7 @@ Wat komt niet aan bod?
 - Een lijst met expertises bij het agentschap.
 - Een gedetailleerde omschrijving van de handelingen voor het gebruik van de toepassingen.
 
-### Erkend... wat nu?
+## Erkend... wat nu?
 
 Is jouw gemeente net erkend als onroerenderfgoedgemeente (OEG), of ben je net gestart als nieuw personeelslid belast met de taken van een OEG? Proficiat! We heten je alvast van harte welkom. Jij bent nu één van onze prioritaire en bevoorrechte partners in de zorg, het beleid en het beheer van het Vlaams onroerend erfgoed.
 
@@ -40,17 +40,16 @@ Als OEG engageer je je om een aantal bevoegdheden en taken samen met Vlaanderen 
 
 Als (kersverse) OEG beschik je over een **beleidsvisie**  over jouw lokaal onroerend erfgoed die conform is aan de [Vlaamse beleidsprioriteiten](https://www.onroerenderfgoed.be/beleidsprioriteiten-onroerend-erfgoed). Daarvoor bracht je het erfgoedbeleidsverleden van jouw stad of gemeente in kaart en liep je een participatief traject met alle erfgoedactoren op jouw grondgebied. Je stemde die beleidsvisie af met de andere beleidsdomeinen en integreerde ze in het ruimere gemeentelijk beleid. Je diende je erkenningsaanvraag in en kreeg groen licht van de bevoegde minister. Je erkenning gaat in vanaf 1 juli van het jaar van aanvraag. Officieel kan je dan van start met de uitrol van die beleidsvisie. Maar hoe doe je dat?
 
-* * * * *
-#### ONROERENDERFGOEDBELEIDSPLAN
+### ONROERENDERFGOEDBELEIDSPLAN
 Je vertaalt je visie naar strategische en operationele doelstellingen in een onroerenderfgoedbeleidsplan. Die vertaalslag helpt jou om de grote beleidslijnen concreter en vooral meer behapbaar te maken. Bovendien kan je die doelstellingen afbakenen in de tijd. Jaarlijks bekijk je hoe je hieraan invulling geeft via concrete acties. 
 
 ***Je kan als OEG een subsidie krijgen van Vlaanderen ter ondersteuning van de uitrol van jouw beleidsvisie. Hiervoor bezorg je het agentschap jouw onroerenderfgoedbeleidsplan en rapporteer je jaarlijks over de uitvoer ervan. Klik [hier](https://www.onroerenderfgoed.be/een-subsidie-aanvragen-oegemeente) voor meer informatie over deze subsidie en de voorwaarden.***
 
-* * * * *
+## Onder de loep?
 
 Als OEG beschik je over een grotere autonomie om een lokaal onroerenderfgoedbeleid te voeren dan een stad of gemeente die geen erkenning als OEG heeft. Je voert op tal van domeinen samen met het agentschap Onroerend Erfgoed bevoegdheden en taken uit. Sommige moet je opnemen. Andere zijn vrijblijvend. We overlopen ze kort hieronder. Je kan ze nalezen in het Onroerenderfgoeddecreet van 12 juli 2013 en het Onroerenderfgoedbesluit van 16 mei 2014. Wat houden die taken en bevoegdheden nu concreet in? We nemen ze even onder de loep.
 
-#### OPVOLGEN VAN ARCHEOLOGISCH ONDERZOEK: TOELATING, ARCHEOLOGIENOTA EN NOTA
+### OPVOLGEN VAN ARCHEOLOGISCH ONDERZOEK: TOELATING, ARCHEOLOGIENOTA EN NOTA
 Als OEG sta je garant voor kwalitatief archeologisch onderzoek op jouw grondgebied. Dat wil niet zeggen dat je een archeologische dienst uit de grond moet stampen en elke opgraving in eigen beheer moet uitvoeren. In Vlaanderen mag archeologisch onderzoek uitgevoerd worden door een zelfstandige archeoloog of een archeologisch bedrijf, zolang die maar beschikt over een erkenning. 
 Een archeologisch onderzoek kan voorkomen in drie situaties: na een vondstmelding, in het kader van een wetenschappelijke vraagstelling en voor een bodemingreep waarvoor een omgevingsvergunning vereist is. Als OEG volg je enkel het archeologisch onderzoek op dat plaatsvindt in functie van de laatste situatie. Het agentschap Onroerend Erfgoed neemt de andere twee situaties voor haar rekening. Lokale besturen kunnen trouwens een samenwerking met het agentschap aangaan om zelf de archeologische toevalsvondsten op te volgen. Lees hierover meer in onze brochure.
 
