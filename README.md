@@ -1,6 +1,6 @@
 
 
-# OEG-WEGWIJS
+# WEGWIJS OEG's
 
 # Een informatieplatform voor erkende onroerenderfgoedgemeenten
 
@@ -20,6 +20,7 @@ Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het age
 | Hoe de erkenning wordt opgevolgd.| Een kant-en-klare inventarisatiestrategie. |
 | Wat je voor die opvolging moet doen.| Een lijst met expertises bij het agentschap. |
 | Een lijst van de (e-)toepassingen die je nodig hebt voor het uitvoeren van je taken.| Een gedetailleerde omschrijving van de handelingen voor het gebruik van de toepassingen. |
+| --- | --- |
 
 ## Erkend... wat nu?
 Is jouw gemeente net erkend als onroerenderfgoedgemeente (OEG), of ben je net gestart als nieuw personeelslid belast met de taken van een OEG? Proficiat! We heten je alvast van harte welkom. Jij bent nu één van onze prioritaire en bevoorrechte partners in de zorg, het beleid en het beheer van het Vlaams onroerend erfgoed.
