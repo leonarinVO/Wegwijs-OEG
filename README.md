@@ -12,6 +12,8 @@ Datum laatste update: 07/04/2023
 
 Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie actueel is op het moment dat je het leest. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
 ## Welkom!
+![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/cea461dc-954b-4a11-bbc6-074827c93cb9)
+
 | Wat mag je van deze wegwijs verwachten? | Wat komt niet aan bod? |
 | --- | --- |
 | Wat jouw taken en bevoegdheden inhouden.| Hoe je een beleidsvisie opstelt. |
@@ -70,3 +72,20 @@ Binnen een termijn van 30 dagen, die ingaat op de dag na de dag waarop de aanvra
 
 #### MELDING BIJ EEN BESCHERMD STADS- OF DORPSGEZICHT
 Ligt er een beschermd stads- of dorpsgezicht in jouw stad of gemeente? Weet dan dat werken, zichtbaar vanaf de openbare weg, steeds moeten gemeld worden, zelfs als er geen omgevingsvergunning nodig is. Dit is zo voor elke Vlaamse stad of gemeente. Je kan als stad of gemeente oordelen dat de werken het beschermd stads- of dorpsgezicht zullen schaden. Het college oordeelt of de melding als toelatingsaanvraag zla behandeld worden. In dat geval moet de aanmelder een schriftelijke toelating indienen bij onroerenderfgoedgemeente. Je bent als OEG namelijk zelf bevoegd om hierover te oordelen. Je neemt als onroerenderfgoedgemeente zelf een beslissing binnen de dertig dagen nadat je de aanvrager hiervan op de hoogte hebt gebracht en maakt deze bekend bij de aanmelder binnen de tien dagen na de beslissing. Benieuwd naar de procedure? Klik meteen door naar Toelatingenloket (loket) & Databank van toelatingen en adviezen (register).
+
+| Wat als… |
+| --- |
+**…het goed vrijgesteld is van de toelatingsplicht?**
+Is het goed vrijgesteld van de toelatingsplicht bij de bescherming, bv. via een goedgekeurd beheersplan, dan moet hiervoor geen toelating aangevraagd worden.
+**…ik als OEG zelf de vergunningsaanvrager ben?**
+Je vraagt als OEG evengoed een toelating voor werken aan beschermd of door jou vastgesteld onroerend erfgoed. Er bestaat geen uitzondering. Het maakt deel uit van jouw voorbeeldfunctie.
+**… de aanvraag onvolledig is of het geen onderzoek ten gronde toelaat?**
+Je kan binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via loket vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen. Je bepaalt meteen zelf de termijn waarbinnen hij dit moet doen. Als de aanvrager dan nalaat de ontbrekende gegevens of documenten aan te leveren, wordt de toelating geacht geweigerd te zijn. Je brengt de aanvrager hiervan schriftelijk of via het loket op de hoogte.
+**…de toelating aan een premiedossier gekoppeld is?**
+Een aanvrager van een toelating kan gelijktijdig een aanvraag doen voor een erfgoedpremie volgens de standaardprocedure. Op het Loket staat een gecombineerd aanvraagformulier. Het agentschap stuurt de aanvraag en de bijhorende documenten door naar de OEG binnen een termijn van vijf dagen, die ingaat op de dag na de indiening. Je stemt best de toelatingsaanvraag af met de erfgoedconsulent van het agentschap die de premieaanvraag behandelt.
+Bij een toelatingsaanvraag voor werken waar ook een premie voor is aangevraagd, vermeld je zeker dat men pas met de werken mag starten nadat de aanvrager ook de definitieve premietoekenning heeft ontvangen. Als de aanvrager eerder start met de handelingen, dan vervalt de premie. Dit is ook aangegeven in de typebrieven. Je vind deze hier .
+**…de toelatingsplichtige werken ook vergunningsplichtig zijn?**
+Als voor toelatingsplichtige werken een (omgevings)vergunning nodig is of ontheffing volgens het Bosdecreet en Natuurdecreet, dan moet de eigenaar geen afzonderlijke toelating aanvragen voor die handelingen. De overheid, die de aanvraag behandelt, vraagt advies aan het agentschap. De toelating wordt vervat in de vergunning. Is de OEG zelf de vergunningverlener, dan integreert die de toelating in de vergunning. De omgevingsambtenaar  kan jou om advies vragen.
+**…het vastgesteld goed ook beschermd is?**
+Als een vastgestelde goed ook beschermd is en de toelatingsplicht uit de vaststelling overlapt met die uit de bescherming, dan moet de eigenaar enkel de toelating aanvragen die nodig is vanuit de bescherming voor wat betreft de afbakening van het beschermde goed. Hij volgt de procedure voor toelatingsplichtige werken bij beschermd erfgoed. De OEG behandelt deze toelatingen. 
+
