@@ -80,3 +80,16 @@ Als voor toelatingsplichtige werken een (omgevings)vergunning nodig is of onthef
 **…het vastgesteld goed ook beschermd is?**
 Als een vastgestelde goed ook beschermd is en de toelatingsplicht uit de vaststelling overlapt met die uit de bescherming, dan moet de eigenaar enkel de toelating aanvragen die nodig is vanuit de bescherming voor wat betreft de afbakening van het beschermde goed. Hij volgt de procedure voor toelatingsplichtige werken bij beschermd erfgoed. De OEG behandelt deze toelatingen. 
 
+### INVENTARISEREN
+Als OEG inventariseer je het bouwkundig en landschappelijk erfgoed op het grondgebied van jouw stad of gemeente. Het inventariseren van archeologisch en varend erfgoed en van landschappelijke gehelen neemt de Vlaamse overheid voor haar rekening.
+
+Je kan de inventarisgegevens zelf rechtstreeks invoeren of bewerken in de Inventaris van het Onroerend Erfgoed. Hoe dat precies in zijn werk gaat, staat ook in deze handleiding. Klik meteen door.
+
+Naast de bestaande inventarissen actualiseren, kan je ook zelf nieuwe objecten ingeven. Daarvoor moet je uiteraard eerst inventariseren. Dat is niet vanzelfsprekend. Hoewel er in deze wegwijs geen kant-en-klare strategie is hiervoor, laat het agentschap Onroerend Erfgoed haar lokale partners niet in de kou staan en stelt haar inhoudelijke en praktische kennis en expertise rond inventarisatie van bouwkundig en landschappelijk ter beschikking. Op de website vindt je tal van handleidingen en richtlijnen die je als leidraad kan gebruiken. 
+
+![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/19fa5c89-6781-4e82-8536-bce5ffda447b)
+
+Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de inventarisobjecten. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject.
+
+***Een inventaris vaststellen? Volg de vastgestelde inventarismethodologie voor [landschappelijk OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037948&param=inhoud&AID=1315970) of [bouwkundig OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025678&param=inhoud&AID=1198973).***
+
