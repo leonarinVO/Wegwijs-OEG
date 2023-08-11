@@ -48,48 +48,7 @@ Weet je niet meteen hoe je met het archeologieportaal moet werken of waar je het
 ***Niet elke omgevingsvergunning vraagt een archeologienota.
 Niet elke omgevingsvergunning vraag een archeologienota. Er zijn uitzonderingen. Een eenduidig overzicht vind je hier. Lees ook zeker de regelgeving na. Het is eveneens jouw taak als OEG om aanvragers hierover goed te informeren.***
 
-### OPVOLGEN VAN WERKEN AAN ONROEREND ERFGOED
-#### TOELATING
-Toelatingsaanvragen voor werken aan beschermd erfgoed moeten aangevraagd worden bij de OEG, tenzij zij zijn vrijgesteld in een goedgekeurd beheersplan. Je behandelt deze dossiers autonoom.
-De aanvraagdossiers kunnen rechtstreeks ingediend worden bij de OEG of digitaal via het loket van het agentschap. In het laatste geval wordt een automatische mail verzonden naar de OEG, zodat die het ingediende dossier kan consulteren en behandelen. Als het dossier schriftelijk ingediend wordt bij de OEG, dan zal de OEG dit dossier zelf moeten bijhouden naast het e-loket voor toelatingen. OEG kunnen dossiers nog niet invoeren in het e-loket.
 
-Als de aanvraag onvolledig is of geen onderzoek ten gronde toelaat, kan je binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. 
-Het Onroerenderfgoedbesluit sluit niet uit dat bevoegdheden toegewezen aan het CBS kunnen doorgedelegeerd worden aan specifieke personen/functies/diensten binnen de gemeenteadministratie. Dus als de regelgeving over de lokale besturen dit toelaat, zien we vanuit het Onroerenderfgoedbesluit geen beletsel om deze taak te delegeren aan een dienst.
-Als de aanvrager nalaat binnen de opgelegde termijn de ontbrekende gegevens of documenten bij te voegen, wordt de toelating geacht te zijn geweigerd. Je brengt de aanvrager hiervan schriftelijk op de hoogte (dit hoeft niet per aangetekende zending! Het mag ook digitaal, dat wil zeggen per mail.) 
-
-Binnen een termijn van 30 dagen, die ingaat op de dag na de dag waarop de aanvraag volledig is ingediend, neem je een beslissing over de aanvraag. Als er geen beslissing genomen is binnen de termijn, wordt de toelating geacht te zijn goedgekeurd. Binnen de 10 dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, breng je de aanvrager schriftelijk (dit hoeft niet per aangetekende zending! Het mag ook digitaal, dat wil zeggen per mail) op de hoogte en voer je de beslissing in in de databank van toelatingen en adviezen (= het register). Ook voor de aanvragen die niet via het e-loket werden ingediend moet je de beslissing in deze databank van toelatingen en adviezen invoeren.
-
-**Klik hier als je het Toelatingenloket (loket) & Databank van toelatingen en adviezen (register) meteen wil ontdekken?**
-
-#### MELDING BIJ EEN BESCHERMD STADS- OF DORPSGEZICHT
-Ligt er een beschermd stads- of dorpsgezicht in jouw stad of gemeente? Weet dan dat werken, zichtbaar vanaf de openbare weg, steeds moeten gemeld worden, zelfs als er geen omgevingsvergunning nodig is. Dit is zo voor elke Vlaamse stad of gemeente. Je kan als stad of gemeente oordelen dat de werken het beschermd stads- of dorpsgezicht zullen schaden. Het college oordeelt of de melding als toelatingsaanvraag zla behandeld worden. In dat geval moet de aanmelder een schriftelijke toelating indienen bij onroerenderfgoedgemeente. Je bent als OEG namelijk zelf bevoegd om hierover te oordelen. Je neemt als onroerenderfgoedgemeente zelf een beslissing binnen de dertig dagen nadat je de aanvrager hiervan op de hoogte hebt gebracht en maakt deze bekend bij de aanmelder binnen de tien dagen na de beslissing. Benieuwd naar de procedure? Klik meteen door naar Toelatingenloket (loket) & Databank van toelatingen en adviezen (register).
-
-| Wat als… |
-| --- |
-**…het goed vrijgesteld is van de toelatingsplicht?**
-Is het goed vrijgesteld van de toelatingsplicht bij de bescherming, bv. via een goedgekeurd beheersplan, dan moet hiervoor geen toelating aangevraagd worden.
-**…ik als OEG zelf de vergunningsaanvrager ben?**
-Je vraagt als OEG evengoed een toelating voor werken aan beschermd of door jou vastgesteld onroerend erfgoed. Er bestaat geen uitzondering. Het maakt deel uit van jouw voorbeeldfunctie.
-**… de aanvraag onvolledig is of het geen onderzoek ten gronde toelaat?**
-Je kan binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via loket vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen. Je bepaalt meteen zelf de termijn waarbinnen hij dit moet doen. Als de aanvrager dan nalaat de ontbrekende gegevens of documenten aan te leveren, wordt de toelating geacht geweigerd te zijn. Je brengt de aanvrager hiervan schriftelijk of via het loket op de hoogte.
-**…de toelating aan een premiedossier gekoppeld is?**
-Een aanvrager van een toelating kan gelijktijdig een aanvraag doen voor een erfgoedpremie volgens de standaardprocedure. Op het Loket staat een gecombineerd aanvraagformulier. Het agentschap stuurt de aanvraag en de bijhorende documenten door naar de OEG binnen een termijn van vijf dagen, die ingaat op de dag na de indiening. Je stemt best de toelatingsaanvraag af met de erfgoedconsulent van het agentschap die de premieaanvraag behandelt.
-Bij een toelatingsaanvraag voor werken waar ook een premie voor is aangevraagd, vermeld je zeker dat men pas met de werken mag starten nadat de aanvrager ook de definitieve premietoekenning heeft ontvangen. Als de aanvrager eerder start met de handelingen, dan vervalt de premie. Dit is ook aangegeven in de typebrieven. Je vind deze hier .
-**…de toelatingsplichtige werken ook vergunningsplichtig zijn?**
-Als voor toelatingsplichtige werken een (omgevings)vergunning nodig is of ontheffing volgens het Bosdecreet en Natuurdecreet, dan moet de eigenaar geen afzonderlijke toelating aanvragen voor die handelingen. De overheid, die de aanvraag behandelt, vraagt advies aan het agentschap. De toelating wordt vervat in de vergunning. Is de OEG zelf de vergunningverlener, dan integreert die de toelating in de vergunning. De omgevingsambtenaar  kan jou om advies vragen.
-**…het vastgesteld goed ook beschermd is?**
-Als een vastgestelde goed ook beschermd is en de toelatingsplicht uit de vaststelling overlapt met die uit de bescherming, dan moet de eigenaar enkel de toelating aanvragen die nodig is vanuit de bescherming voor wat betreft de afbakening van het beschermde goed. Hij volgt de procedure voor toelatingsplichtige werken bij beschermd erfgoed. De OEG behandelt deze toelatingen. 
-
-### INVENTARISEREN
-Als OEG inventariseer je het bouwkundig en landschappelijk erfgoed op het grondgebied van jouw stad of gemeente. Het inventariseren van archeologisch en varend erfgoed en van landschappelijke gehelen neemt de Vlaamse overheid voor haar rekening.
-
-Je kan de inventarisgegevens zelf rechtstreeks invoeren of bewerken in de Inventaris van het Onroerend Erfgoed. Hoe dat precies in zijn werk gaat, staat ook in deze handleiding. Klik meteen door.
-
-Naast de bestaande inventarissen actualiseren, kan je ook zelf nieuwe objecten ingeven. Daarvoor moet je uiteraard eerst inventariseren. Dat is niet vanzelfsprekend. Hoewel er in deze wegwijs geen kant-en-klare strategie is hiervoor, laat het agentschap Onroerend Erfgoed haar lokale partners niet in de kou staan en stelt haar inhoudelijke en praktische kennis en expertise rond inventarisatie van bouwkundig en landschappelijk ter beschikking. Op de website vindt je tal van handleidingen en richtlijnen die je als leidraad kan gebruiken. 
-
-![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/19fa5c89-6781-4e82-8536-bce5ffda447b)
-
-Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de inventarisobjecten. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject. 
 
 ***Een inventaris vaststellen? Volg de vastgestelde inventarismethodologie voor [landschappelijk OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037948&param=inhoud&AID=1315970) of [bouwkundig OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025678&param=inhoud&AID=1198973).***
 
