@@ -11,31 +11,17 @@ Auteur: agentschap Onroerend Erfgoed / team Erkennen
 Datum laatste update: 07/04/2023
 
 Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie actueel is op het moment dat je het leest. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
-
-![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/7feed51c-e92d-41c3-a02e-47b0f293aa43) 
 ## Welkom!
+| Wat mag je van deze wegwijs verwachten? | Wat komt niet aan bod? |
+| --- | --- |
+| Wat jouw taken en bevoegdheden inhouden.| Hoe je een beleidsvisie opstelt. |
+| Hoe je die taken en bevoegdheden opneemt.| Hoe je een participatief traject organiseert. |
+| Bij wie je terecht kan voor ondersteuning.| Hoe je een onroerenderfgoedbeleidsplan schrijft. |
+| Hoe de erkenning wordt opgevolgd.| Een kant-en-klare inventarisatiestrategie. |
+| Wat je voor die opvolging moet doen.| Een lijst met expertises bij het agentschap. |
+| Een lijst van de (e-)toepassingen die je nodig hebt voor het uitvoeren van je taken.| Een gedetailleerde omschrijving van de handelingen voor het gebruik van de toepassingen. |
 
-Wat mag je van deze wegwijs verwachten?
-
-- Wat jouw taken en bevoegdheden inhouden.
-- Hoe je die taken en bevoegdheden opneemt.
-- Bij wie je terecht kan voor ondersteuning.
-- Hoe de erkenning wordt opgevolgd.
-- Wat je voor die opvolging moet doen.
-- Een lijst van de (e-)toepassingen die je nodig hebt voor het uitvoeren van je taken. 
-
-Wat komt niet aan bod?
-
-- Hoe je een beleidsvisie opstelt.
-- Hoe je een participatief traject organiseert.
-- Hoe je een onroerenderfgoedbeleidsplan schrijft.
-- Een kant-en-klare inventarisatiestrategie.
-- Een lijst met expertises bij het agentschap.
-- Een gedetailleerde omschrijving van de handelingen voor het gebruik van de toepassingen.
-
-![image](https://github.com/leonarinVO/leonarinVO.github.io/assets/141407960/df19441b-9524-4509-88fc-e73d24a42e54)
 ## Erkend... wat nu?
-
 Is jouw gemeente net erkend als onroerenderfgoedgemeente (OEG), of ben je net gestart als nieuw personeelslid belast met de taken van een OEG? Proficiat! We heten je alvast van harte welkom. Jij bent nu één van onze prioritaire en bevoorrechte partners in de zorg, het beleid en het beheer van het Vlaams onroerend erfgoed.
 
 Als OEG engageer je je om een aantal bevoegdheden en taken samen met Vlaanderen uit te voeren. Daarvoor bestaan er diverse processen en handelingen. Dat is geen evidentie. Daarom zetten we je alvast goed op weg met deze introductiebrochure. Ze bevat tevens nuttige informatie voor gemeenten en steden die nadenken over een erkenning als OEG.
