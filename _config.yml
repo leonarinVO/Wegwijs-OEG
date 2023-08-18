@@ -1,9 +1,1 @@
-# Site settings
-title: WegWijs OEG's
-author:
-  name: agentschap Onroerend Erfgoed
-  email: erkennen-subsidieren.oe@vlaanderen.be
-description: "WegWijs OEG's."
 
-# Build settings
-remote_theme: jekyll/minimal
