@@ -11,8 +11,8 @@ Auteur: agentschap Onroerend Erfgoed / team Erkennen
 Datum laatste update: 07/04/2023
 
 Disclaimer: Ons beleidsveld staat niet stil. Onze regelgeving evolueert. Het agentschap Onroerend Erfgoed kan niet garanderen dat de informatie actueel is op het moment dat je het leest. Voor algemene informatie kan je eveneens terecht op www.onroerenderfgoed.be.
-## Welkom!
-![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/cea461dc-954b-4a11-bbc6-074827c93cb9)
+## Welkom
+![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/45ad4b8f-d684-418c-9818-148039825f71)
 
 ## Erkend... wat nu?
 Is jouw gemeente net erkend als onroerenderfgoedgemeente (OEG), of ben je net gestart als nieuw personeelslid belast met de taken van een OEG? Proficiat! We heten je alvast van harte welkom. Jij bent nu één van onze prioritaire en bevoorrechte partners in de zorg, het beleid en het beheer van het Vlaams onroerend erfgoed.
