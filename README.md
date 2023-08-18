@@ -89,6 +89,6 @@ Naast de bestaande inventarissen actualiseren, kan je ook zelf nieuwe objecten i
 
 ![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/19fa5c89-6781-4e82-8536-bce5ffda447b)
 
-Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de inventarisobjecten. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject. 
+Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de *inventarisobjecten*. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject. 
 
 ***Een inventaris vaststellen? Volg de vastgestelde inventarismethodologie voor [landschappelijk OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037948&param=inhoud&AID=1315970) of [bouwkundig OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025678&param=inhoud&AID=1198973).***
