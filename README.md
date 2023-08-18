@@ -89,6 +89,13 @@ Naast de bestaande inventarissen actualiseren, kan je ook zelf nieuwe objecten i
 
 ![image](https://github.com/leonarinVO/Wegwijs-OEG/assets/141407960/19fa5c89-6781-4e82-8536-bce5ffda447b)
 
-Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de *inventarisobjecten*. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject. 
+Je bepaalt zelf hoe je te werk gaat voor de selectie, het onderzoek, de registratie en de beschrijving van de inventarisobjecten. Als je de inventaris wilt invoeren in de toepassingen van het agentschap zijn er een aantal minimale administratieve en kwalitatieve standaarden die moeten nageleefd worden. Deze minimale standaarden zijn nodig om een basis te garanderen voor wetenschappelijke onderzoek en voor de opmaak van eventuele latere vaststellingsbesluiten. Neem de standaarden meteen op bij de start van een inventarisproject. 
 
 ***Een inventaris vaststellen? Volg de vastgestelde inventarismethodologie voor [landschappelijk OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037948&param=inhoud&AID=1315970) of [bouwkundig OE](https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025678&param=inhoud&AID=1198973).***
+
+Als OEG heb je de bevoegdheid de inventarissen van bouwkundig en landschappelijk erfgoed op je grondgebied vast te stellen.  Aan die vaststelling zijn dezelfde rechtsgevolgen gekoppeld als aan een Vlaamse vaststelling. Daarenboven heeft een OEG de bevoegdheid om er **bijkomend toelatingsplichten** aan te koppelen. Zolang een OEG zelf niet vaststelt, blijven de rechtsgevolgen van de laatste (Vlaamse) vaststelling gelden. De Vlaamse overheid kan vanaf 2023 de inventarissen bouwkundig en landschappelijk erfgoed op het grondgebied van een OEG niet meer vaststellen. Voor Oost- en West-Vlaanderen is er tot 2025 een overgangsmaatregel, zodat de vaststellingen van het bouwkundig erfgoed in die provincies kunnen afgewerkt worden. De Vlaamse overheid blijft wel nog bevoegd voor het vaststellen van het varend erfgoed, de landschapsatlas en de archeologische zones; deze types onroerend erfgoed kunnen OEG’s niet vaststellen.
+
+
+
+
+
